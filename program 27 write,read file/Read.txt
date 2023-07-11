@@ -1,0 +1,3 @@
+new file is created
+program to write a file,then read from the file and display the contents on console
+new file is creatednew file is created
